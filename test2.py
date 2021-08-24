@@ -11,3 +11,5 @@ a = 3
 b = 0
 c = a / (b + 1)
 print(c)
+
+print('remote success')
