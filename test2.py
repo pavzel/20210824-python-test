@@ -1,7 +1,6 @@
 print('Hello2')
 string = 'Hello string'
 print(string)
-#print(string.partition())
 print('---------------')
 
 string.center(20)
